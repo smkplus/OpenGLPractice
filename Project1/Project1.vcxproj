@@ -25,6 +25,10 @@
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Desktop\HHHHH\textfile.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="shader.frag" />
+    <None Include="shader.vert" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{1F442339-1B0B-47D8-B43D-0070E6CC4EED}</ProjectGuid>
